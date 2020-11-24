@@ -1,0 +1,3 @@
+include ':TitleBar'
+include ':app'
+rootProject.name = "AndroidTitleBar"
